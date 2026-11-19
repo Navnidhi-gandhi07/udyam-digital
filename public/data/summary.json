@@ -1,0 +1,40 @@
+{
+  "totalLeads": 5000,
+  "activated": 368,
+  "conversionPercent": 7.359999999999999,
+  "stages": [
+    {
+      "label": "Lead",
+      "count": 5000,
+      "percentOfPrevious": null
+    },
+    {
+      "label": "Contacted",
+      "count": 3406,
+      "percentOfPrevious": 68.12
+    },
+    {
+      "label": "Needs assessed",
+      "count": 1974,
+      "percentOfPrevious": 57.95654726952437
+    },
+    {
+      "label": "Quote accepted",
+      "count": 861,
+      "percentOfPrevious": 43.61702127659575
+    },
+    {
+      "label": "KYC complete",
+      "count": 588,
+      "percentOfPrevious": 68.29268292682927
+    },
+    {
+      "label": "Activated",
+      "count": 368,
+      "percentOfPrevious": 62.585034013605444
+    }
+  ],
+  "productCount": 25,
+  "synthetic": true,
+  "period": "Apr–Jun 2026"
+}
